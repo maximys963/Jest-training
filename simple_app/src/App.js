@@ -25,8 +25,8 @@ class App extends Component{
     render(){
         const { counter } = this.state;
         return(
-            <div className='app-container'>
-                <h1>
+            <div className='app-container' data-test="something">
+                <h1 className='counter-display'>
                     Counter Value now is { counter }
                 </h1>
                 <Button
