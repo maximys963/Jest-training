@@ -7,7 +7,9 @@
   justify-content: center;
   align-items: center;
 }
-.app-button{
+.increase-btn,
+.decrease-btn,
+.erase-btn{
   margin-bottom: 10px;
 }
 
