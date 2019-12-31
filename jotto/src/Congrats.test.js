@@ -1,7 +1,6 @@
-import React               from 'react';
-import Enzyme, { shallow } from 'enzyme';
-import EnzymeAdapter       from 'enzyme-adapter-react-16';
-import checkPropTypes      from 'check-prop-types';
+import React       from 'react';
+import { shallow } from 'enzyme';
+
 
 import {
     findByTestAttr,
@@ -9,7 +8,6 @@ import {
 }                          from "../test/testUtils";
 import Congrats            from './Congrats';
 
-Enzyme.configure({ adapter: new EnzymeAdapter() });
 
 const defaultProps = { success: false };
 
