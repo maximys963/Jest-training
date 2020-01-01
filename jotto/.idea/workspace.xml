@@ -18,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/GuessedWords/GuessedWords.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3">
-              <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+            <state relative-caret-position="192">
+              <caret line="12" column="51" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="51" />
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -30,11 +30,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/Congrats/Congrats.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/GuessedWords/GuessedWords.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+            <state relative-caret-position="345">
+              <caret line="60" column="70" selection-start-line="60" selection-start-column="70" selection-end-line="60" selection-end-column="70" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,6 +50,11 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>guessed</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -61,9 +69,9 @@
         <option value="$PROJECT_DIR$/src/setupTests.js" />
         <option value="$PROJECT_DIR$/src/Congrats.test.js" />
         <option value="$PROJECT_DIR$/src/components/Congrats/Congrats.test.js" />
-        <option value="$PROJECT_DIR$/src/components/GuessedWords/GuessedWords.test.js" />
-        <option value="$PROJECT_DIR$/src/components/GuessedWords/GuessedWords.js" />
         <option value="$PROJECT_DIR$/src/components/Congrats/Congrats.js" />
+        <option value="$PROJECT_DIR$/src/components/GuessedWords/GuessedWords.js" />
+        <option value="$PROJECT_DIR$/src/components/GuessedWords/GuessedWords.test.js" />
       </list>
     </option>
   </component>
@@ -166,15 +174,16 @@
       <option name="presentableId" value="Default" />
       <updated>1577711735674</updated>
       <workItem from="1577711741307" duration="12983000" />
-      <workItem from="1577892557134" duration="2110000" />
+      <workItem from="1577892557134" duration="5348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15093000" />
+    <option name="totallyTimeSpent" value="18331000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24925596" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -188,7 +197,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" x="0" y="260" width="1366" height="208" id="Event Log" order="7" side_tool="true" type="WINDOWED" weight="0.3296355" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.8180272" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.17687075" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -247,10 +256,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Congrats/Congrats.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/GuessedWords/GuessedWords.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="33" column="68" lean-forward="true" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
+        <state relative-caret-position="345">
+          <caret line="60" column="70" selection-start-line="60" selection-start-column="70" selection-end-line="60" selection-end-column="70" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
@@ -259,18 +278,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/GuessedWords/GuessedWords.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3">
-          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        <state relative-caret-position="192">
+          <caret line="12" column="51" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="51" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Congrats/Congrats.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
         </state>
       </provider>
     </entry>
