@@ -8,7 +8,7 @@ import GuessedWords         from './GuessedWords';
 
 
 const defaultProps = {
-    guessedWords : [{ guessedWords: 'train', letterMatchCount: 3}],
+    guessedWords : [{ guessedWord: 'train', letterMatchCount: 3}],
 };
 
 const setup = (props = {}) => {
