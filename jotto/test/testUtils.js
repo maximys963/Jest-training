@@ -6,7 +6,7 @@ import { middlewares } from "../src/configureStore";
 
 
 export const storeFactory = (initialState) => {
-   const createStoreWithMiddleware = applyMiddleware(...middlewares)
+   const createStoreWithMiddleware = applyMiddleware(...middlewares);
    return createStore(rootReducer, initialState);
 };
 
