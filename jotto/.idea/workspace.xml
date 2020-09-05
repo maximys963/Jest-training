@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6559fd7a-9a6d-4ab1-8fe3-78e2b44cd08a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/intergration.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducer/guessedWordReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jotto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jotto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducer/secretWordReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/index.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intergration.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/intergration.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducer/guessedWordReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducer/guessedWordReducer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/reducer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducer/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/testUtils.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/testUtils.js" afterDir="false" />
     </list>
@@ -22,13 +21,6 @@
         <option value="JavaScript File" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>guessed</find>
-      <find>console.log</find>
-      <find>without error</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -96,7 +88,7 @@
       <workItem from="1578845336992" duration="496000" />
       <workItem from="1578947601994" duration="542000" />
       <workItem from="1599068874925" duration="1337000" />
-      <workItem from="1599289023827" duration="791000" />
+      <workItem from="1599289023827" duration="7133000" />
     </task>
     <servers />
   </component>
