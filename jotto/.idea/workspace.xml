@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6559fd7a-9a6d-4ab1-8fe3-78e2b44cd08a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/actions/index.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/actions/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reducer/secretWordReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducer/secretWordReducer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="6559fd7a-9a6d-4ab1-8fe3-78e2b44cd08a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +81,7 @@
       <workItem from="1578947601994" duration="542000" />
       <workItem from="1599068874925" duration="1337000" />
       <workItem from="1599289023827" duration="7364000" />
-      <workItem from="1599498018250" duration="2162000" />
+      <workItem from="1599498018250" duration="2441000" />
     </task>
     <servers />
   </component>

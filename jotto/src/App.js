@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 
+
 import GuessedWords from './components/GuessedWords/GuessedWords';
 import Congrats from './components/Congrats/Congrats'; 
 

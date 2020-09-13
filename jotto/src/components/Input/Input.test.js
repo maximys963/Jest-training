@@ -1,4 +1,4 @@
-import React from 'react'
+import React     from 'react'
 import {shallow} from 'enzyme';
 
 import {findByTestAttr, storeFactory} from '../../../test/testUtils';
@@ -49,6 +49,21 @@ describe('reder', () => {
         });
     })
 });
-describe('update state', () => {
 
+describe('redux props', () => {
+    test('has success piece of state as prop', () => {
+        const success = true;
+        const wrapper = setup({ success});
+        
+        const successProp = wrapper.instance().props.success;
+        expect(successProp).toBe(success);
+
+    });
+
+    test('guessWord action creator is a function prop', () => {
+        const wrapper = setup()
+        const guessWordProp = wrapper.instance().props.guessWords;
+        expect(guessWordProp).toBeInstanceOf(Function);
+    })
 });
+
