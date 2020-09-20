@@ -9,7 +9,7 @@ const setup = (initialState = {}) => {
     return shallow(<Input store={store}/>).dive().dive();
 };
 
-describe('reder', () => {
+describe('render', () => {
     describe('word has not been guessed', () => {
         let wrapper;
         beforeEach(() => {
